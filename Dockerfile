@@ -1,1 +1,0 @@
-FROM registry.jujucharms.com/kubeflow-charmers/ambassador/oci-image@sha256:ac028903c79f6913e132522b0e088bb4a1ef312a37d30eb37473cad513434b32
